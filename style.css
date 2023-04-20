@@ -1,0 +1,16 @@
+button {
+    background-color: #4CAF50; /* Green */
+    border: 2;
+    color: white;
+    padding: 20px 35px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    transition-duration: 0.4s;
+  }
+button:hover {
+  background-color: silver; /* Green */
+  color: white;
+}
+
